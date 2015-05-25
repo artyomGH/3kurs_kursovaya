@@ -1,0 +1,5 @@
+D:\asteroids\Naves\bin\Release\Naves.exe.config
+D:\asteroids\Naves\obj\Release\Naves.csprojResolveAssemblyReference.cache
+D:\asteroids\Naves\obj\Release\Naves.Main.resources
+D:\asteroids\Naves\obj\Release\Naves.Properties.Resources.resources
+D:\asteroids\Naves\obj\Release\Naves.csproj.GenerateResource.Cache
